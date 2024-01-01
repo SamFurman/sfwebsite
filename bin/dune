@@ -1,0 +1,4 @@
+(executable
+ (public_name sfwebsite)
+ (name main)
+ (libraries sfwebsite))
